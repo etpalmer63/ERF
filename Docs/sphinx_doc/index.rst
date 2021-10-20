@@ -6,21 +6,81 @@
 Welcome to ERF's documentation!
 =================================
 
-Contents:
 
 .. toctree::
+   :caption: INSTALLATION
    :maxdepth: 2
+   :hidden:
 
    Introduction.rst
+   
+
+.. toctree::
+   :caption: APPlICATIONS AND REQUIREMENTS
+   :maxdepth: 2
+   :hidden:
+
    Applications_Requirements.rst
+
+
+.. toctree::
+   :caption: COMPRESSIBLE EULER EQUATIONS
+   :maxdepth: 2
+   :hidden:
+
    Euler_Equations.rst
+
+.. toctree::
+   :caption: CONSTANTS AND UNITS
+   :maxdepth: 2
+   :hidden:
+
    UnitsAndConstants.rst
+
+.. toctree::
+   :caption: TIME ADVANCE
+   :maxdepth: 2
+   :hidden:
+
    Algorithms.rst
+
+.. toctree::
+   :caption: ARAKAWA C-GRID
+   :maxdepth: 2
+   :hidden:
+
    ArakawaCGrid.rst
+
+.. toctree::
+   :caption: FINITE DIFFERENCE DISCRETIZATION OF EULER EQUATIONS
+   :maxdepth: 2
+
    Euler_Discretization.rst
+
+.. toctree::
+   :caption: GETTING STARTED
+   :maxdepth: 2
+   :hidden:
+
    GettingStarted.rst
+
+.. toctree::
+   :caption: BOUNDARY CONDITIONS
+   :maxdepth: 2
+   :hidden:
+
    BoundaryConditions.rst
+
+
+.. toctree::
+   :caption: VISUALIZATION
+   :maxdepth: 2
+   :hidden:
+
    Visualization.rst
+
+
+
 
 README
 ======
