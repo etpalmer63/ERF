@@ -54,6 +54,7 @@ Welcome to ERF's documentation!
 .. toctree::
    :caption: FINITE DIFFERENCE DISCRETIZATION OF EULER EQUATIONS
    :maxdepth: 2
+   :hidden:
 
    Euler_Discretization.rst
 
